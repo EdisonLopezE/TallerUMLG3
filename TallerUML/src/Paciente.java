@@ -9,5 +9,8 @@
  * @author jjmg0
  */
 public class Paciente {
-    
+    protected String mail;
+    public boolean solicitarCita(){
+        return true;
+    }
 }

@@ -8,14 +8,11 @@
  *
  * @author jjmg0
  */
-public class Administrador {
-    // true indica que el proceso fue exitoso
-    public boolean registrarUsuario(){
-        return true;
+public class Secretaria {
+    public void verificarCita(){
+        
     }
-    
-    public boolean asignarRol(Persona p){
-        return true;
+    public void agendarCita(){
+        
     }
-    
 }
